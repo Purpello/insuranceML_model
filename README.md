@@ -22,7 +22,7 @@ The commands to compile and run the code were:
 
 # Model Description
 
-The winning model was a GBM (Gradient Boosting Machine model).  Below is a summary of metrics from 5 cross-validation rounds, followed by variable importances.  The mean **mae** in the first table tells that on average, our predictions are within about $2500 of actual costs.  The second table tells us that the two most important variables for predicting insurance costs are the ones we have the most control over: being a smoker (yes/no) and our BMI, with smoking being by far the strongest predictor.
+The winning model was a GBM (Gradient Boosting Machine) model.  Below is a summary of metrics from 5 cross-validation rounds, followed by variable importances.  The mean **mae** in the first table tells that on average, our predictions are within about $2500 of actual costs.  The second table tells us that the two most important variables for predicting insurance costs are the ones we have the most control over: being a smoker (yes/no) and our BMI, with smoking being by far the strongest predictor.
 
 ![image](https://user-images.githubusercontent.com/7217660/221303800-ace82286-4904-4774-b424-e9143ab621b4.png)
 
