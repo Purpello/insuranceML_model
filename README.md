@@ -22,9 +22,12 @@ The commands to compile and run the code were:
 
 # Model Description
 
-The winning model was a GBM (Gradient Boosting Machine model).  
+The winning model was a GBM (Gradient Boosting Machine model).  Below is a summary of metrics from 5 cross-validation rounds, followed by variable importances.  Both images are screen captures from h2o.ai.
 
 ![image](https://user-images.githubusercontent.com/7217660/221303800-ace82286-4904-4774-b424-e9143ab621b4.png)
+
+![image](https://user-images.githubusercontent.com/7217660/221304131-b8d4e5ae-47b3-4755-b002-bf7d8e3acefe.png)
+
 
 
 
