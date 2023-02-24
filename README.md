@@ -7,7 +7,7 @@ The purpose of this project was to use the [h2o.ai](https://docs.h2o.ai/h2o/late
 The workflow for this project was:
 1. Create a model to predict [insurance costs](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv) from customer characteristics using the h2o.ai web UI running on my local machine (HP Dev One).  This same approach can also be run in the cloud.
 2. Export the chosen model as a MOJO file with associated .jar file.
-3. Create and compile a main.java file that reads one line of customer data from a .csv file and then predicts insurance costs based on that data.
+3. Create and compile a main.java file that reads one line of customer data from a .csv file and then predicts insurance costs based on that data.  This was done in Java because the MOJO file and its associated .jar file are in Java.
 
 This project was run on an HP Dev One linux based laptop.  The following Java resources were used locally:
 
