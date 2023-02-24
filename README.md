@@ -22,4 +22,10 @@ The commands to compile and run the code were:
 
 # Model Description
 
+The winning model was a GBM (Gradient Boosting Machine model).  
+
+![image](https://user-images.githubusercontent.com/7217660/221303800-ace82286-4904-4774-b424-e9143ab621b4.png)
+
+
+
 
