@@ -28,9 +28,12 @@ The winning model was a GBM (Gradient Boosting Machine) model.  Below is a summa
 
 ![image](https://user-images.githubusercontent.com/7217660/221304131-b8d4e5ae-47b3-4755-b002-bf7d8e3acefe.png)
 
-The effects of these two most important variables on medical costs are shown below.
+The effects of these two most important variables on medical costs are shown below (click on an image to see a larger version).  The first images show medical costs for smokers vs non-smokers.  The second plot shows how costs differ for these two groups based on BMI.
 
 ![image](https://user-images.githubusercontent.com/7217660/221308794-32d4e6b8-d52a-4226-b582-f3dea8efa3ce.png)
+
+![image](https://user-images.githubusercontent.com/7217660/221309463-47e52fde-4599-4991-977e-64f3b672ecbd.png)
+
 
 
 
