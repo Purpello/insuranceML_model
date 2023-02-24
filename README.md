@@ -28,7 +28,9 @@ The winning model was a GBM (Gradient Boosting Machine) model.  Below is a summa
 
 ![image](https://user-images.githubusercontent.com/7217660/221304131-b8d4e5ae-47b3-4755-b002-bf7d8e3acefe.png)
 
+The effects of these two most important variables on medical costs are shown below.
 
+![image](https://user-images.githubusercontent.com/7217660/221308794-32d4e6b8-d52a-4226-b582-f3dea8efa3ce.png)
 
 
 
